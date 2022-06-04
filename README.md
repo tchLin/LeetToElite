@@ -1,6 +1,6 @@
 # LeetToElite
 
-My repository for leetcode record. Review and learning purpose!
+My repository for leetcode record. Review and learning purposes!
 
 _All solutions were made with the sole intent of solving the corresponding LeetCode challenge. Solutions may not be as efficient as possible._
 
