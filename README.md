@@ -1,8 +1,9 @@
 # LeetToElite
 
-My repository for leetcode record. Review and learning purposes!
-
-_All solutions were made with the sole intent of solving the corresponding LeetCode challenge. Solutions may not be as efficient as possible._
+### My repository for leetcode record. Review and learning purposes!   
+I'm still learning so feel free to point out where I could improve :)
+###### _All solutions were made with the sole intent of solving the corresponding LeetCode challenge._  
+###### _Solutions may not be as efficient as possible._
 
 [![Easy](https://img.shields.io/badge/Easy-7-5cb85c.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Easy)
 [![Medium](https://img.shields.io/badge/Medium-0-f0ad4e.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Medium)
