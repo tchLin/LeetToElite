@@ -1,16 +1,10 @@
 class Solution:
     def matrixReshape(self, mat: List[List[int]], r: int, c: int) -> List[List[int]]:
-        matrix_size=0
         
-        for row in mat:
-            matrix_size+=len(row)
-        
-        if r*c != matrix_size:
+        if r*c != len(mat[0])*len(mat):
             return mat
 
-        new_mat=[]
-        for _ in range(r):
-            new_mat.append([])
+        new_mat=[[]*c for i in range(r)]
         
         new_col_cntr=0
         new_row_pntr=0
