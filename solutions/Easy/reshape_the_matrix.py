@@ -13,7 +13,6 @@ class Solution:
         
         while new_row_pntr < r:
             if new_col_cntr != c:
-                print(old_col_pntr, old_row_pntr)
                 new_mat[new_row_pntr].append(mat[old_row_pntr][old_col_pntr])
                 new_col_cntr+=1
                 old_col_pntr+=1       
