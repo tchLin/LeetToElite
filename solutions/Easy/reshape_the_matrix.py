@@ -4,7 +4,7 @@ class Solution:
         if r*c != len(mat[0])*len(mat):
             return mat
 
-        new_mat=[[]*c for i in range(r)]
+        new_mat=[[] for i in range(r)]
         
         new_col_cntr=0
         new_row_pntr=0
