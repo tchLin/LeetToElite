@@ -17,3 +17,16 @@ class Solution:
             pointer=pointer.next
         return False
       
+
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        if head == None:
+            return False
+        pointer=head
+        check=set()
+        while pointer.next != None:
+            if pointer in check:
+                return True
+            check.add(pointer)
+            pointer=pointer.next
+        return False
