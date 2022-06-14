@@ -6,7 +6,7 @@ I'm still learning so feel free to point out where I could improve :)
 ###### _Solutions may not be as efficient as possible._
 
 [![Easy](https://img.shields.io/badge/Easy-17-5cb85c.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Easy)
-[![Medium](https://img.shields.io/badge/Medium-0-f0ad4e.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Medium)
+[![Medium](https://img.shields.io/badge/Medium-1-f0ad4e.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Medium)
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Hard)
 
 
@@ -30,3 +30,4 @@ I'm still learning so feel free to point out where I could improve :)
 | 383    | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)    |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/ransom_note.py)          |
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/first_unique_character_in_a_string.py)          |
 | 566    | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/reshape_the_matrix.py)          |
+| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                               | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Medium/reverse_integer.py)          |
