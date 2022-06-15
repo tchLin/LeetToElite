@@ -1,5 +1,18 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        stack=[]
+        lookup={"}":"{", "]":"[", ")":"("}
+        for brac in s:
+            if brac in lookup:
+                if not stack or stack.pop()!=lookup[brac]:
+                    return False
+            else:
+                stack.append(brac)
+            
+        return True if not stack else False
+    
+class Solution:
+    def isValid(self, s: str) -> bool:
         li=[]
         for brac in s:
             if (brac == "{" or brac == "[" or brac == "("):
