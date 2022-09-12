@@ -5,7 +5,7 @@ I'm still learning so feel free to point out where I could improve :)
 ###### _All solutions were made with the sole intent of solving the corresponding LeetCode challenge._  
 ###### _Solutions may not be as efficient as possible._
 
-[![Easy](https://img.shields.io/badge/Easy-21-5cb85c.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Easy)
+[![Easy](https://img.shields.io/badge/Easy-22-5cb85c.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Easy)
 [![Medium](https://img.shields.io/badge/Medium-1-f0ad4e.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Medium)
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Hard)
 
