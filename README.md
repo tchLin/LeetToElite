@@ -5,7 +5,7 @@ I'm still learning so feel free to point out where I could improve :)
 ###### _All solutions were made with the sole intent of solving the corresponding LeetCode challenge._  
 ###### _Solutions may not be as efficient as possible._
 
-[![Easy](https://img.shields.io/badge/Easy-22-5cb85c.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Easy)
+[![Easy](https://img.shields.io/badge/Easy-23-5cb85c.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Easy)
 [![Medium](https://img.shields.io/badge/Medium-1-f0ad4e.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Medium)
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)](https://github.com/tchLin/LeetToElite/tree/main/solutions/Hard)
 
@@ -35,4 +35,5 @@ I'm still learning so feel free to point out where I could improve :)
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/first_unique_character_in_a_string.py)          |
 | 566    | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/reshape_the_matrix.py)          |
 | 595    | [Big Countries](https://leetcode.com/problems/big-countries/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |  [![SQL](https://img.shields.io/badge/SQL-%20-yellow)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/big_countries.sql)          |
+| 1757    | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                                                               | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)   |  [![SQL](https://img.shields.io/badge/SQL-%20-yellow)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Easy/recyclable_and_low_fat_products.sql)          |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                               | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)   |  [![Python](https://img.shields.io/badge/Python-%20-blue)](https://github.com/tchLin/LeetToElite/blob/main/solutions/Medium/reverse_integer.py)          |
